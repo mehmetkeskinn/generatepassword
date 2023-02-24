@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/generatepassword/static/css/main.ea1f749f.css",
+    "main.js": "/generatepassword/static/js/main.fae448db.js",
+    "index.html": "/generatepassword/index.html",
+    "main.ea1f749f.css.map": "/generatepassword/static/css/main.ea1f749f.css.map",
+    "main.fae448db.js.map": "/generatepassword/static/js/main.fae448db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1f749f.css",
+    "static/js/main.fae448db.js"
+  ]
+}
