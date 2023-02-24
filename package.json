@@ -41,5 +41,10 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": "Password Generator Build with ReactApp<br> Installation on localhost :<br> `npm install`<br> `npm start`<br><br> Build Command : `npm run build` or `yarn build`",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
 }
